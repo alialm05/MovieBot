@@ -1,2 +1,2 @@
 # Movie Discord Bot 
-http://alialm05.github.io/movie-bot
+http://alialm05.github.io/MovieBot
